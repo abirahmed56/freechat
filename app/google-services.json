@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196024487172",
+    "project_id": "freechat-dffe0",
+    "storage_bucket": "freechat-dffe0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196024487172:android:e471db1371172180011451",
+        "android_client_info": {
+          "package_name": "com.abir.freechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhAQ4R-yi4LCMUcpagSogYstQDJwlsfhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
